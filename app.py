@@ -13,7 +13,7 @@ import cv2
 chat = ChatGroq(
     temperature=0.7,
     model="llama3-70b-8192",
-    api_key="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"
+    api_key="YOUR_API"
 )
 
 # Define the prompt template for the assistant
