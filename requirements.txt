@@ -2,11 +2,11 @@ langchain
 langchain-groq
 streamlit
 matplotlib
-textblob 
-readability
+textblob # Sentiments Analysis
+readability # Reading Scores
 numpy
-opencv-python
-PTL
+opencv-python  #ImageProcessing
+PTL  #Image 
 #tensorflow
 scikit-image
 python-dotenv
