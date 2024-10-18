@@ -14,3 +14,4 @@ opencv-python-headless
 pillow
 langchain-core
 readability-lxml
+lxml
