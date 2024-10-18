@@ -8,6 +8,8 @@ import readability
 from PIL import Image, ImageFilter
 import numpy as np
 import cv2
+from readability import Document
+
 
 # Initialize ChatGroq with your API key and model
 chat = ChatGroq(
