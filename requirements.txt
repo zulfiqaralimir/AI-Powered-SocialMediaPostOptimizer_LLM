@@ -10,3 +10,7 @@ PTL  #Image
 #tensorflow
 scikit-image
 python-dotenv
+opencv-python-headless
+pillow
+langchain-core
+readability-lxml
